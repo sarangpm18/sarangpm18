@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sarang
-- 👀 I’m interested in React JS, Typescript and Javascript
+- 👀 I’m interested in React JS, Typescript, Javascript and dart
 - 🌱 I’m currently learning Haskel
 - 💞️ I’m looking to collaborate on an application where you can book appointments and token in hospitals across Kerala.
 - 📫 reach me on +919567613086 (Whatsapp)
